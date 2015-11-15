@@ -58,3 +58,8 @@ target/
 
 # Jupyter notebook
 .ipynb_checkpoints
+
+# Multimedia files
+*.mp3
+*.mp4
+*.wav
