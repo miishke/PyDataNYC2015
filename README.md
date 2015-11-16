@@ -14,6 +14,6 @@ Sound loudness is measured on a logarithmic scale in decibels of sound pressure 
 
 Human voice and music are rarely composed of tones having single frequencies. Usually, a tone is made of a base frequency, called the fundamental frequency, and higher harmonics, which are whole number multiples of the fundamental frequency. The timbre of a steady tone is determined by the relative intensities of each harmonic.
 
-Using short time Fourier transform, we can examine frequency and its intensity as it varies with time in a 3 second saxophone riff, and produce a visual representation called a spectrogram. In a spectrogram, the X axis shows time sampling points and the Y axis corresponds to the sound intensities at discrete frequencies. In this sound clip there are 10 tones played, each with the fundamental frequency and harmonics, and combined they produce that unique saxophone sound.
+Using short time Fourier transform, we can examine frequency and its intensity as it varies with time in a 3 second saxophone riff, and produce a visual representation shown bellow called a spectrogram. In a spectrogram, the X axis shows time sampling points and the Y axis corresponds to the sound intensities at discrete frequencies. In this sound clip there are 10 tones played, each with the fundamental frequency and harmonics, and combined they produce that unique saxophone sound.
 
 ### Short time Fourier transform - STFT
